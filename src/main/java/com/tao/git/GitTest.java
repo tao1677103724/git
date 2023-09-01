@@ -5,6 +5,7 @@ public class GitTest {
         System.out.println("niubi");
         System.out.println("niubi");
         System.out.println("niubi");
+        System.out.println("niubi");
     }
     
 //    @Test
